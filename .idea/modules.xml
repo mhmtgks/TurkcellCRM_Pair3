@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TurkcellCRM_Pair3.iml" filepath="$PROJECT_DIR$/.idea/TurkcellCRM_Pair3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accountService/accountService.iml" filepath="$PROJECT_DIR$/accountService/accountService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basketService/basketService.iml" filepath="$PROJECT_DIR$/basketService/basketService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catalogService/catalogService.iml" filepath="$PROJECT_DIR$/catalogService/catalogService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonPackage/commonPackage.iml" filepath="$PROJECT_DIR$/commonPackage/commonPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customerService/customerService.iml" filepath="$PROJECT_DIR$/customerService/customerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoveryServer/discoveryServer.iml" filepath="$PROJECT_DIR$/discoveryServer/discoveryServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatewayService/gatewayService.iml" filepath="$PROJECT_DIR$/gatewayService/gatewayService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/identityService/identityService.iml" filepath="$PROJECT_DIR$/identityService/identityService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/invoiceService/invoiceService.iml" filepath="$PROJECT_DIR$/invoiceService/invoiceService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orderService/orderService.iml" filepath="$PROJECT_DIR$/orderService/orderService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchService/searchService.iml" filepath="$PROJECT_DIR$/searchService/searchService.iml" />
+    </modules>
+  </component>
+</project>
